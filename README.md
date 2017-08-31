@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Personal Statement
 
-You can use the [editor on GitHub](https://github.com/Sean-Grant/sean-grant.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a behavioral and social scientist at the RAND Corporation and affiliated faculty at the Pardee RAND Graduate School. I am interested in advancing the overall transparency, openness, and rigor of intervention research for supporting evidence-based policy and practice. I principally evaluate interventions for substance use, though I am passionate about applying intervention research methods to topics spanning the behavioral, social, and health sciences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Current Projects
 
-### Markdown
+I currently work on several projects that aim to develop methodological tools for behavioral and social intervention research: CONSORT-SPI, a reporting guideline for randomized controlled trials of social and psychological interventions (UK ESRC; RAND PI), adapted reporting standards for protocols of social intervention trials (BITSS and LJAF; PI), and guidance for rating the quality of the body of evidence for complex social interventions (UK ESRC, RAND PI). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am also PI of a project funded by RWJF to explore if and how research transparency aligns with Institutional Review Board policies, and Co-I for a PCORI-funded project to create an online method for patient and caregiver engagement in clinical guideline development. 
 
-```markdown
-Syntax highlighted code block
+Substantively, I am Co-PI of a project funded by the Wallace Foundation to review evidence on interventions that promote students' social-emotional learning outcomes, and Co-I for a NIDA-funded project to identify and evaluate decision rules for adolescent substance use treatment.
 
-# Header 1
-## Header 2
-### Header 3
+# Online Presence
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sean-Grant/sean-grant.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here are other places you can find me online:
+* [RAND Profile](https://www.rand.org/about/people/g/grant_sean.html)
+* [Google Scholar](https://scholar.google.com/citations?user=5NypHSEAAAAJ&hl=en)
+* [Open Science Framework](https://osf.io/rewyz/)
+* [ORCID](orcid.org/0000-0002-7775-3022)
+* [Twitter](https://twitter.com/GrantSeanP)
