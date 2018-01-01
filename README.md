@@ -14,7 +14,11 @@ Substantively, I am Co-PI of a project funded by the Wallace Foundation to revie
 
 Here are other places you can find me online:
 * [RAND Profile](https://www.rand.org/about/people/g/grant_sean.html)
+* [GitHub](https://github.com/Sean-Grant)
 * [Google Scholar](https://scholar.google.com/citations?user=5NypHSEAAAAJ&hl=en)
+* [ImpactStory](https://profiles.impactstory.org/u/0000-0002-7775-3022)
+* [LinkedIn](https://www.linkedin.com/in/sean-grant-a7ab1942/)
+* [ResearcherID](http://www.researcherid.com/rid/L-9912-2016)
 * [Open Science Framework](https://osf.io/rewyz/)
 * [ORCID](https://orcid.org/0000-0002-7775-3022)
 * [Twitter](https://twitter.com/GrantSeanP)
