@@ -19,7 +19,7 @@ Here are other places you can find me online:
 * [ImpactStory](https://profiles.impactstory.org/u/0000-0002-7775-3022)
 * [LinkedIn](https://www.linkedin.com/in/sean-grant-a7ab1942/)
 * [Publons](https://publons.com/author/1305141/sean-grant#profile)
-* [ResearcherID](http://www.researcherid.com/rid/L-9912-2016)
 * [Open Science Framework](https://osf.io/rewyz/)
 * [ORCID](https://orcid.org/0000-0002-7775-3022)
+* [ResearcherID](http://www.researcherid.com/rid/L-9912-2016)
 * [Twitter](https://twitter.com/GrantSeanP)
